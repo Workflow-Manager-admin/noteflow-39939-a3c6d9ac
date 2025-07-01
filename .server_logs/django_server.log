@@ -6,34 +6,26 @@ Watching for file changes with StatReloader
 Performing system checks...
 
 System check identified no issues (0 silenced).
-July 01, 2025 - 08:36:51
+July 01, 2025 - 08:37:35
 Django version 5.2, using settings 'config.settings'
 Starting development server at http://0.0.0.0:3001/
 Quit the server with CONTROL-C.
 
 WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
 For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
-/home/kavia/workspace/code-generation/noteflow-39939-a3c6d9ac/notes_backend/config/settings.py changed, reloading.
-Watching for file changes with StatReloader
-Performing system checks...
-
-System check identified no issues (0 silenced).
-July 01, 2025 - 08:37:21
-Django version 5.2, using settings 'config.settings'
-Starting development server at http://0.0.0.0:3001/
-Quit the server with CONTROL-C.
-
-WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
-For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
-/home/kavia/workspace/code-generation/noteflow-39939-a3c6d9ac/notes_backend/config/settings.py changed, reloading.
-Watching for file changes with StatReloader
-Performing system checks...
-
-System check identified no issues (0 silenced).
-July 01, 2025 - 08:37:28
-Django version 5.2, using settings 'config.settings'
-Starting development server at http://0.0.0.0:3001/
-Quit the server with CONTROL-C.
-
-WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
-For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Not Found: /openapi.json
+[01/Jul/2025 08:37:52] "HEAD /openapi.json HTTP/1.1" 404 0
+Not Found: /openapi.json
+[01/Jul/2025 08:37:52] "GET /openapi.json HTTP/1.1" 404 2917
+Not Found: /openapi.json
+[01/Jul/2025 08:37:57] "HEAD /openapi.json HTTP/1.1" 404 0
+Not Found: /openapi.json
+[01/Jul/2025 08:37:57] "GET /openapi.json HTTP/1.1" 404 2917
+Not Found: /openapi.json
+[01/Jul/2025 08:38:02] "HEAD /openapi.json HTTP/1.1" 404 0
+Not Found: /openapi.json
+[01/Jul/2025 08:38:02] "GET /openapi.json HTTP/1.1" 404 2917
+Not Found: /openapi.json
+[01/Jul/2025 08:38:07] "HEAD /openapi.json HTTP/1.1" 404 0
+Not Found: /openapi.json
+[01/Jul/2025 08:38:07] "GET /openapi.json HTTP/1.1" 404 2917
