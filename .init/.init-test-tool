@@ -1,0 +1,4 @@
+{
+    "command": "python manage.py test",
+    "working_directory": "/home/kavia/workspace/code-generation/noteflow-39939-a3c6d9ac/notes_backend"
+}
