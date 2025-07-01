@@ -1,0 +1,80 @@
+Operations to perform:
+  Apply all migrations: admin, api, auth, contenttypes, sessions
+Running migrations:
+  No migrations to apply.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 01, 2025 - 08:34:42
+Django version 5.2, using settings 'config.settings'
+Starting development server at http://0.0.0.0:3001/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+Not Found: /openapi.json
+[01/Jul/2025 08:34:58] "HEAD /openapi.json HTTP/1.1" 404 0
+Not Found: /openapi.json
+[01/Jul/2025 08:34:58] "GET /openapi.json HTTP/1.1" 404 2917
+Not Found: /openapi.json
+[01/Jul/2025 08:35:03] "HEAD /openapi.json HTTP/1.1" 404 0
+Not Found: /openapi.json
+[01/Jul/2025 08:35:03] "GET /openapi.json HTTP/1.1" 404 2917
+Not Found: /openapi.json
+[01/Jul/2025 08:35:08] "HEAD /openapi.json HTTP/1.1" 404 0
+Not Found: /openapi.json
+[01/Jul/2025 08:35:08] "GET /openapi.json HTTP/1.1" 404 2917
+Not Found: /openapi.json
+[01/Jul/2025 08:35:13] "HEAD /openapi.json HTTP/1.1" 404 0
+Not Found: /openapi.json
+[01/Jul/2025 08:35:13] "GET /openapi.json HTTP/1.1" 404 2917
+[01/Jul/2025 08:35:20] "GET /swagger.json HTTP/1.1" 200 516
+/home/kavia/workspace/code-generation/noteflow-39939-a3c6d9ac/notes_backend/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 01, 2025 - 08:35:52
+Django version 5.2, using settings 'config.settings'
+Starting development server at http://0.0.0.0:3001/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+/home/kavia/workspace/code-generation/noteflow-39939-a3c6d9ac/notes_backend/api/urls.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 01, 2025 - 08:35:54
+Django version 5.2, using settings 'config.settings'
+Starting development server at http://0.0.0.0:3001/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+/home/kavia/workspace/code-generation/noteflow-39939-a3c6d9ac/notes_backend/api/serializers.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 01, 2025 - 08:36:10
+Django version 5.2, using settings 'config.settings'
+Starting development server at http://0.0.0.0:3001/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
+/home/kavia/workspace/code-generation/noteflow-39939-a3c6d9ac/notes_backend/api/views.py changed, reloading.
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+July 01, 2025 - 08:36:43
+Django version 5.2, using settings 'config.settings'
+Starting development server at http://0.0.0.0:3001/
+Quit the server with CONTROL-C.
+
+WARNING: This is a development server. Do not use it in a production setting. Use a production WSGI or ASGI server instead.
+For more information on production servers see: https://docs.djangoproject.com/en/5.2/howto/deployment/
